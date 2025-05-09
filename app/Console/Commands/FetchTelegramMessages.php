@@ -45,7 +45,7 @@ class FetchTelegramMessages extends Command
 
                     $messages = $madelineProto->messages->getHistory([
                         'peer' => $channel->channel_identifier,
-                        'limit' => 20,
+                        'limit' => 25,
                     ]);
                     $this->info('Messages number  : ' . count($messages));
 
@@ -53,9 +53,7 @@ class FetchTelegramMessages extends Command
                     foreach ($messages['messages'] as $msg) {
                         $groupedId = $msg['grouped_id'] ?? null;
 
-                        if ($groupedId) {
-                            $this->info("Processing media group with ID: {$groupedId}");
-                        }
+                        $this->info("Processing media group with ID: {$groupedId} for msg ID: {$msg['id']}");
 
                         $isMedia = empty($msg['message']);
                         $link = null;
