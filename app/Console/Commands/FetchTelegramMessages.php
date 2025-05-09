@@ -55,23 +55,37 @@ class FetchTelegramMessages extends Command
                         $link = $madelineProto->getDownloadLink($msg['media'], route('download_link'));
 
                         // Log all keys and values in a pretty JSON format
-                       // $this->info('Message Details: ' . json_encode($msg, JSON_PRETTY_PRINT));
+                        // $this->info('Message Details: ' . json_encode($msg, JSON_PRETTY_PRINT));
+
+                        $t = TelegramMessage::find($msg['id']);
+
+                        if($t) {
+                            $this->info('Message already exists: ' . $msg['id']);
+                            $t->update
+                               ( [
+                                    'telegram_channel_id' => $channel->id,
+                                    'message_content' => $msg['message'] ?? '',
+                                    'sent_at' => (new DateTime())->setTimestamp($msg['date']),
+                                    'grouped_id' =>  $msg['grouped_id'] ?? null,
+                                ]
+        );
+
+                            continue;
+                        }
 
 
-                        $t = TelegramMessage::updateOrCreate(
-                            ['id' => $msg['id']],
-                            [
+                        $t = TelegramMessage::create(
+                            ['id' => $msg['id'],
                                 'telegram_channel_id' => $channel->id,
                                 'message_content' => $msg['message'] ?? '',
                                 'sent_at' => (new DateTime())->setTimestamp($msg['date']),
+                                'grouped_id' =>  $msg['grouped_id'] ?? null,
                             ]
                         );
 
-                        if (!$t->wasRecentlyCreated) {
                             $t->addMediaFromUrl($link)
                                 ->toMediaCollection('products');
-                        }
-                    }
+                        $this->info('Message saved: ' . $msg['id']);}
 
                     $this->info("Successfully processed channel: {$channel->channel_identifier}");
                 } catch (\Exception $e) {
