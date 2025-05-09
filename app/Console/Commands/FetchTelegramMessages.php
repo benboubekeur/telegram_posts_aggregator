@@ -50,12 +50,35 @@ class FetchTelegramMessages extends Command
                     $this->info('Messages number  : ' . count($messages));
 
 
+
                     foreach ($messages['messages'] as $msg) {
                         $link = $madelineProto->getDownloadLink($msg, route('download_link'));
 
+                         $d = implode(', ', array_keys($msg )) ;
+                        $this->info('Messages keys  : ' .   $d );
+          
 
-                        $this->info('Link ' . $link    );
-                     
+                        $collection = collect( $msg);
+
+
+
+                        $flattened = $collection->flatten();
+
+
+
+
+                        //$d = implode(', ', array_values($flattened->all()));
+
+                        //$this->info('Messages Values  : ' .   $d);
+                        //$this->info('Link ' . $link    );
+                        //$this->info('ID ' . $msg['id']);
+
+                        $es =   array_key_exists('grouped_id', $msg )  ? $msg['grouped_id'] : false;
+                        if($es){
+                            $this->info('Grouped ID ' .  $es);
+                        }
+
+
                         $t = TelegramMessage::updateOrCreate(
                             ['id' => $msg['id']],
                             [
