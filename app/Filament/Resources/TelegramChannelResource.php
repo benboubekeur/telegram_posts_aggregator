@@ -6,6 +6,8 @@ use App\Filament\Resources\TelegramChannelResource\Pages;
 use App\Filament\Resources\TelegramChannelResource\RelationManagers;
 use App\Models\TelegramChannel;
 use Filament\Forms;
+use Filament\Forms\Components\Section;
+use Filament\Forms\Components\SpatieMediaLibraryFileUpload;
 use Filament\Forms\Form;
 use Filament\Resources\Resource;
 use Filament\Tables;
@@ -34,8 +36,10 @@ class TelegramChannelResource extends Resource
                             ->live()
                             ->unique(ignoreRecord: true)
                             ->required(),
-                    ])
-            ->columns(2)
+                    ]),
+
+                   
+         
 
             ]);
     }

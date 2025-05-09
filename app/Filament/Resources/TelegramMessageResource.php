@@ -6,6 +6,8 @@ use App\Filament\Resources\TelegramMessageResource\Pages;
 use App\Filament\Resources\TelegramMessageResource\RelationManagers;
 use App\Models\TelegramMessage;
 use Filament\Forms;
+use Filament\Forms\Components\Section;
+use Filament\Forms\Components\SpatieMediaLibraryFileUpload;
 use Filament\Forms\Form;
 use Filament\Resources\Resource;
 use Filament\Tables;
@@ -29,6 +31,15 @@ class TelegramMessageResource extends Resource
                     ->columnSpanFull(),
                 Forms\Components\DateTimePicker::make('sent_at')
                     ->required(),
+            Section::make()
+                ->schema(
+                    [
+                        SpatieMediaLibraryFileUpload::make('Images')
+                            ->multiple()
+                            ->previewable()
+                            ->collection('products'),
+                    ]
+                ),
  
             ]);
     }
@@ -37,7 +48,11 @@ class TelegramMessageResource extends Resource
     {
         return $table
             ->columns([
-                Tables\Columns\TextColumn::make('telegramChannel.channel_identifier'),
+            Tables\Columns\SpatieMediaLibraryImageColumn::class::make('media')
+                ->collection('products')
+                ->conversion('preview')
+                ->label(''),
+            Tables\Columns\TextColumn::make('telegramChannel.channel_identifier'),
                 Tables\Columns\TextColumn::make('sent_at')
                     ->dateTime()
                     ->sortable(),

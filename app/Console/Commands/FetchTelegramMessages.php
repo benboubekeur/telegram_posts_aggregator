@@ -56,14 +56,21 @@ class FetchTelegramMessages extends Command
 
                         $this->info('Link ' . $link    );
                      
-                        TelegramMessage::updateOrCreate(
+                        $t = TelegramMessage::updateOrCreate(
                             ['id' => $msg['id']],
                             [
                                 'telegram_channel_id' => $channel->id,
                                 'message_content' => $msg['message'] ?? '',
                                 'sent_at' => (new DateTime())->setTimestamp($msg['date']),
                             ]
-                        );
+                            );
+
+
+                            if(!$t->wasRecentlyCreated){
+                            $t
+                            ->addMediaFromUrl($link)
+                            ->toMediaCollection('products');
+                        }
                     }
 
                     $this->info("Successfully processed channel: {$channel->channel_identifier}");
