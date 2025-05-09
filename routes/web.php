@@ -9,6 +9,13 @@ Route::get('/', function () {
     return view('welcome');
 })->name('home');
 
+Route::get('/download_link' , function(){
+ 
+ \danog\MadelineProto\API::downloadServer('../session.madeline'); 
+
+return 0;
+})->name('download_link');
+
 Route::view('dashboard', 'dashboard')
     ->middleware(['auth', 'verified'])
     ->name('dashboard');

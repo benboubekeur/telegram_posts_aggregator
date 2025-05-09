@@ -40,21 +40,22 @@ class FetchTelegramMessages extends Command
             foreach ($channels as $channel) {
                 $this->info('Processing channel: '.$channel->channel_identifier);
                 try {
-                    $entity = $madelineProto->getPwrChat($channel->channel_identifier);
+                    //$entity = $madelineProto->getPwrChat($channel->channel_identifier);
 
-               
 
                     $messages = $madelineProto->messages->getHistory([
                         'peer' => $channel->channel_identifier,
-                        'limit' => 10,
+                        'limit' => 20,
                     ]);
                     $this->info('Messages number  : ' . count($messages));
 
 
                     foreach ($messages['messages'] as $msg) {
-                        foreach (array_keys($msg) as $key => $value) {
-                            $this->info('Keys ' . $key);
-                        }
+                        $link = $madelineProto->getDownloadLink($msg, route('download_link'));
+
+
+                        $this->info('Link ' . $link    );
+                     
                         TelegramMessage::updateOrCreate(
                             ['id' => $msg['id']],
                             [
