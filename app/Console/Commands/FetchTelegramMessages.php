@@ -38,7 +38,7 @@ class FetchTelegramMessages extends Command
             $channels = TelegramChannel::all();
 
             foreach ($channels as $channel) {
-                $this->info('Processing channel: '.$channel->channel_identifier);
+                $this->info('Processing channel: ' . $channel->channel_identifier);
                 try {
                     //$entity = $madelineProto->getPwrChat($channel->channel_identifier);
 
@@ -52,31 +52,10 @@ class FetchTelegramMessages extends Command
 
 
                     foreach ($messages['messages'] as $msg) {
-                        $link = $madelineProto->getDownloadLink($msg, route('download_link'));
+                        $link = $madelineProto->getDownloadLink($msg['media'], route('download_link'));
 
-                         $d = implode(', ', array_keys($msg )) ;
-                        $this->info('Messages keys  : ' .   $d );
-          
-
-                        $collection = collect( $msg);
-
-
-
-                        $flattened = $collection->flatten();
-
-
-
-
-                        //$d = implode(', ', array_values($flattened->all()));
-
-                        //$this->info('Messages Values  : ' .   $d);
-                        //$this->info('Link ' . $link    );
-                        //$this->info('ID ' . $msg['id']);
-
-                        $es =   array_key_exists('grouped_id', $msg )  ? $msg['grouped_id'] : false;
-                        if($es){
-                            $this->info('Grouped ID ' .  $es);
-                        }
+                        // Log all keys and values in a pretty JSON format
+                       // $this->info('Message Details: ' . json_encode($msg, JSON_PRETTY_PRINT));
 
 
                         $t = TelegramMessage::updateOrCreate(
@@ -86,30 +65,25 @@ class FetchTelegramMessages extends Command
                                 'message_content' => $msg['message'] ?? '',
                                 'sent_at' => (new DateTime())->setTimestamp($msg['date']),
                             ]
-                            );
+                        );
 
-
-                            if(!$t->wasRecentlyCreated){
-                            $t
-                            ->addMediaFromUrl($link)
-                            ->toMediaCollection('products');
+                        if (!$t->wasRecentlyCreated) {
+                            $t->addMediaFromUrl($link)
+                                ->toMediaCollection('products');
                         }
                     }
 
                     $this->info("Successfully processed channel: {$channel->channel_identifier}");
                 } catch (\Exception $e) {
-                    $this->error("Error processing channel {$channel->channel_identifier}: ".$e->getMessage());
+                    $this->error("Error processing channel {$channel->channel_identifier}: " . $e->getMessage());
                     continue;
                 }
             }
-
         } catch (\Exception $e) {
-            $this->error('Fatal error: '.$e->getMessage() . ' Line '.$e->getLine());
+            $this->error('Fatal error: ' . $e->getMessage() . ' Line ' . $e->getLine());
             return 0;
         }
 
         return 1;
     }
-
-
 }
