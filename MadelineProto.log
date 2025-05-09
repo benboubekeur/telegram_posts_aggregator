@@ -1,0 +1,3189 @@
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+Exception:      	Not inited! in Start.php:52
+entry:          	\danog\MadelineProto\Exception: Not inited! in E:\Work\Projects\telegram_posts_aggregator\vendor\danog\madelineproto\src\ApiWrappers\Start.php:52
+Revision: 8.4.4
+TL Trace:
+
+API.php(212):       	APIStart({})
+entry.php(114):     	__construct("E:\\Work\\Projects\\telegram_posts_aggregator\\session.madeline",{})
+entry.php(154):     	danog\MadelineProto\Ipc\Runner\{closure}()
+entry:          	Got exception in IPC server, exiting...
+entry:          	Reporting error!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+entry:          	Reported error!
+Logger:         	MadelineProto 8.4.4
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter:     	Acquiring connect lock for 2!
+DataCenter:     	Connecting to DC 2
+DataCenterConnection: 	Restoring 0 messages to DC 2
+Session:        	Resetting session in DC 2.0 due to creating initial session...
+Connection:     	Connecting to DC 2.0 via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream 
+Connection:     	Connected to DC 2.0 via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream!
+DataCenterConnection: 	Acquiring lock in order to init auth for DC 2
+DataCenterConnection: 	Initing auth for DC 2
+DataCenterConnection: 	Done initing auth for DC 2
+Session:        	Garbage collected 0 outgoing messages in DC 2, 1 left
+PingLoop:       	Ping DC 2.0
+MTProto:        	AUTH_KEY_UNREGISTERED
+MTProto:        	Starting update system
+APIWrapper:     	MadelineProto is ready!
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\ipcState.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 6 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 4 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+SessionPaths:   	Got exclusive lock of E:\Work\Projects\telegram_posts_aggregator\session.madeline\lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 2.0
