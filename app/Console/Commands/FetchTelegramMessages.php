@@ -8,6 +8,7 @@ use danog\MadelineProto\API;
 use danog\MadelineProto\Settings\AppInfo;
 use DateTime;
 use Illuminate\Console\Command;
+use Illuminate\Support\Arr;
 
 class FetchTelegramMessages extends Command
 {
@@ -41,12 +42,19 @@ class FetchTelegramMessages extends Command
                 try {
                     $entity = $madelineProto->getPwrChat($channel->channel_identifier);
 
+               
+
                     $messages = $madelineProto->messages->getHistory([
-                        'peer' => $entity,
+                        'peer' => $channel->channel_identifier,
                         'limit' => 10,
                     ]);
+                    $this->info('Messages number  : ' . count($messages));
+
 
                     foreach ($messages['messages'] as $msg) {
+                        foreach (array_keys($msg) as $key => $value) {
+                            $this->info('Keys ' . $key);
+                        }
                         TelegramMessage::updateOrCreate(
                             ['id' => $msg['id']],
                             [
@@ -64,10 +72,9 @@ class FetchTelegramMessages extends Command
                 }
             }
 
-            $this->info('Telegram messages fetched successfully!');
         } catch (\Exception $e) {
-            $this->error('Fatal error: '.$e->getMessage());
-            return 1;
+            $this->error('Fatal error: '.$e->getMessage() . ' Line '.$e->getLine());
+            return 0;
         }
 
         return 1;

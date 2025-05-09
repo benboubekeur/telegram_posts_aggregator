@@ -11,7 +11,7 @@ class TelegramMessage extends Model
     /** @use HasFactory<\Database\Factories\TelegramMessageFactory> */
     use HasFactory;
 
-    public function channel() : BelongsTo
+    public function telegramChannel() : BelongsTo
     {
         return $this->belongsTo(TelegramChannel::class);
     }

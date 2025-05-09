@@ -24,14 +24,12 @@ class TelegramMessageResource extends Resource
         return $form
             ->schema([
                 Forms\Components\Textarea::make('message_content')
-                    ->required()
+                ->autosize()
+                ->required()
                     ->columnSpanFull(),
                 Forms\Components\DateTimePicker::make('sent_at')
                     ->required(),
-                Forms\Components\TextInput::make('telegram_channel_id')
-                    ->tel()
-                    ->required()
-                    ->numeric(),
+ 
             ]);
     }
 
@@ -39,12 +37,13 @@ class TelegramMessageResource extends Resource
     {
         return $table
             ->columns([
-                Tables\Columns\TextColumn::make('channel.channel_identifier'),
+                Tables\Columns\TextColumn::make('telegramChannel.channel_identifier'),
                 Tables\Columns\TextColumn::make('sent_at')
                     ->dateTime()
                     ->sortable(),
-                Tables\Columns\TextColumn::make('telegram_channel_id')
-                    ->sortable(),
+                Tables\Columns\TextColumn::make('message_content')
+                    ->limit()
+                    ->searchable(),
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()
