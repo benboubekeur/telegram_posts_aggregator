@@ -4,11 +4,13 @@ namespace App\Console\Commands;
 
 use App\Models\TelegramChannel;
 use App\Models\TelegramMessage;
+use App\Models\TelegramMessageMedia;
 use danog\MadelineProto\API;
 use danog\MadelineProto\Settings\AppInfo;
 use DateTime;
 use Illuminate\Console\Command;
 use Illuminate\Support\Arr;
+use Illuminate\Support\Facades\DB;
 
 class FetchTelegramMessages extends Command
 {
@@ -45,9 +47,13 @@ class FetchTelegramMessages extends Command
 
                     $messages = $madelineProto->messages->getHistory([
                         'peer' => $channel->channel_identifier,
-                        'limit' => 25,
+                        'limit' => 30,
                     ]);
-                    $this->info('Messages number  : ' . count($messages));
+
+                    $this->info('Messages number  : ' . count($messages['messages']));
+
+
+                    info('Messages: ' . json_encode($messages['messages']));
 
 
                     foreach ($messages['messages'] as $msg) {
@@ -56,12 +62,22 @@ class FetchTelegramMessages extends Command
                         $this->info("Processing media group with ID: {$groupedId} for msg ID: {$msg['id']}");
 
                         $isMedia = empty($msg['message']);
+
                         $link = null;
 
                         if ($isMedia) {
                             $link =  $isMedia ? $madelineProto->getDownloadLink($msg['media'], route('download_link')) : null;
 
                             $this->info("Media link  " . $link);
+
+                            $tmm = TelegramMessageMedia::create([
+                                'grouped_id' => $groupedId,
+                            ]);
+
+                            $tmm->addMediaFromUrl($link)
+                                ->toMediaCollection('products');
+
+                            continue;
                         }
 
 
@@ -72,34 +88,14 @@ class FetchTelegramMessages extends Command
                             continue;
                         }
 
-                        if ( $t =  TelegramMessage::where('grouped_id', $groupedId)->first()) {
 
-                            if($link){
-                                $t->addMediaFromUrl($link)
-                                    ->toMediaCollection('products');
-                            }else{
-                                $t->message_content = $msg['message'] ?? '';
-                                $t->save();
-                            }
-
-                            continue;
-                        }
-
-
-                        $t = TelegramMessage::create(
-                            [
-                                'id' => $msg['id'],
-                                'telegram_channel_id' => $channel->id,
-                                'message_content' => $msg['message'] ?? '',
-                                'sent_at' => (new DateTime())->setTimestamp($msg['date']),
-                                'grouped_id' => $groupedId,
-                            ]
-                        );
-
-                        if ($link) {
-                            $t->addMediaFromUrl($link)
-                                ->toMediaCollection('products');
-                        }
+                        TelegramMessage::create([
+                            'telegram_channel_id' => $channel->id,
+                            'grouped_id' => $groupedId,
+                            'message_content' => $msg['message'] ?? null,
+                            'sent_at' => new DateTime()->setTimestamp($msg['date']),
+                        ]);
+                        $this->info("Message created: {$msg['id']}");
                     }
 
                     $this->info("Successfully processed channel: {$channel->channel_identifier}");

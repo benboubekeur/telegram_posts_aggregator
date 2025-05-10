@@ -5,6 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 use Spatie\Image\Enums\Fit;
 use Spatie\MediaLibrary\HasMedia;
 use Spatie\MediaLibrary\InteractsWithMedia;
@@ -21,6 +22,11 @@ class TelegramMessage extends Model implements HasMedia
     public function telegramChannel() : BelongsTo
     {
         return $this->belongsTo(TelegramChannel::class);
+    }
+
+    public function telegramMessageMedias(): HasMany 
+    {
+        return $this->hasMany(TelegramMessageMedia::class, 'grouped_id', 'grouped_id');
     }
 
     public function registerMediaConversions(?Media $media = null): void

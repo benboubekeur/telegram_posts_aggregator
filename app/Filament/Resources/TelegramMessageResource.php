@@ -71,6 +71,7 @@ class TelegramMessageResource extends Resource
                     ->sortable()
                     ->toggleable(isToggledHiddenByDefault: true),
             ])
+            ->poll('9s')
             ->filters([
                 //
             ])
