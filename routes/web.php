@@ -6,6 +6,7 @@ use App\Livewire\Settings\Profile;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
+    info('Inside the home route');
     return view('welcome');
 })->name('home');
 

@@ -52,6 +52,8 @@ class BasicEventHandler extends SimpleEventHandler
     public function handleMessage(Incoming&Message $message): void
     {
         info('Inside  the handleMessage method');
+
+        info(json_encode($message));
       
         // Code that uses $message...
         // See the following pages for more examples and documentation:
