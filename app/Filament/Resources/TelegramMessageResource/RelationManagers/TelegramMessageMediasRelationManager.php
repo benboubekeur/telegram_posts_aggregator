@@ -3,6 +3,8 @@
 namespace App\Filament\Resources\TelegramMessageResource\RelationManagers;
 
 use Filament\Forms;
+use Filament\Forms\Components\Section;
+use Filament\Forms\Components\SpatieMediaLibraryFileUpload;
 use Filament\Forms\Form;
 use Filament\Resources\RelationManagers\RelationManager;
 use Filament\Tables;
@@ -18,6 +20,15 @@ class TelegramMessageMediasRelationManager extends RelationManager
     {
         return $form
             ->schema([
+            Section::make()
+                ->schema(
+                    [
+                        SpatieMediaLibraryFileUpload::make('Images')
+                            ->multiple()
+                            ->previewable()
+                            ->collection('products'),
+                    ]
+                ),
             ]);
     }
 

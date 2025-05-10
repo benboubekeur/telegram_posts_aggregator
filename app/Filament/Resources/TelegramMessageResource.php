@@ -59,9 +59,11 @@ class TelegramMessageResource extends Resource
                     ->sortable(),
             Tables\Columns\TextColumn::make('grouped_id')
                     ->sortable()
-                ->searchable(),
+                    ->toggleable()
+                    ->searchable(),
                 Tables\Columns\TextColumn::make('message_content')
                     ->limit()
+                    ->toggleable()
                     ->searchable(),
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
