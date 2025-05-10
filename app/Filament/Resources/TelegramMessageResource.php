@@ -4,6 +4,7 @@ namespace App\Filament\Resources;
 
 use App\Filament\Resources\TelegramMessageResource\Pages;
 use App\Filament\Resources\TelegramMessageResource\RelationManagers;
+use App\Filament\Resources\TelegramMessageResource\RelationManagers\TelegramMessageMediasRelationManager;
 use App\Models\TelegramMessage;
 use Filament\Forms;
 use Filament\Forms\Components\Section;
@@ -31,15 +32,7 @@ class TelegramMessageResource extends Resource
                     ->columnSpanFull(),
                 Forms\Components\DateTimePicker::make('sent_at')
                     ->required(),
-            Section::make()
-                ->schema(
-                    [
-                        SpatieMediaLibraryFileUpload::make('Images')
-                            ->multiple()
-                            ->previewable()
-                            ->collection('products'),
-                    ]
-                ),
+    
  
             ]);
     }
@@ -88,7 +81,7 @@ class TelegramMessageResource extends Resource
     public static function getRelations(): array
     {
         return [
-            //
+            TelegramMessageMediasRelationManager::class,
         ];
     }
 
