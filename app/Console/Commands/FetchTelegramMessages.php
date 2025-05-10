@@ -61,23 +61,21 @@ class FetchTelegramMessages extends Command
 
                         $this->info("Processing media group with ID: {$groupedId} for msg ID: {$msg['id']}");
 
-                        $isMedia = empty($msg['message']);
 
-                        $link = null;
+                        $link =    $madelineProto->getDownloadLink($msg, route('download_link')) ?? null;
 
-                        if ($isMedia) {
-                            $link =  $isMedia ? $madelineProto->getDownloadLink($msg['media'], route('download_link')) : null;
+                        if ($link && $groupedId) {
+
 
                             $this->info("Media link  " . $link);
 
                             $tmm = TelegramMessageMedia::create([
                                 'grouped_id' => $groupedId,
+                                'message_id' => $msg['id'],
                             ]);
 
                             $tmm->addMediaFromUrl($link)
                                 ->toMediaCollection('products');
-
-                            continue;
                         }
 
 
@@ -88,13 +86,26 @@ class FetchTelegramMessages extends Command
                             continue;
                         }
 
+                        if ($msg['message']) {
+                           $tm =  TelegramMessage::create([
+                                'id' => $msg['id'],
+                                'telegram_channel_id' => $channel->id,
+                                'grouped_id' => $groupedId,
+                                'message_content' => $msg['message'] ?? null,
+                                'sent_at' => new DateTime()->setTimestamp($msg['date']),
+                            ]);
 
-                        TelegramMessage::create([
-                            'telegram_channel_id' => $channel->id,
-                            'grouped_id' => $groupedId,
-                            'message_content' => $msg['message'] ?? null,
-                            'sent_at' => new DateTime()->setTimestamp($msg['date']),
-                        ]);
+                            if ($link && is_null($groupedId)) {
+
+
+                                $tm->addMediaFromUrl($link)
+                                    ->toMediaCollection('products');
+                            }
+                        }
+
+
+
+
                         $this->info("Message created: {$msg['id']}");
                     }
 

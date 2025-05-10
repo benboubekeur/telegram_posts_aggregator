@@ -14,6 +14,7 @@ return new class extends Migration
         Schema::create('telegram_message_media', function (Blueprint $table) {
             $table->id();
             $table->string('grouped_id')->nullable();
+            $table->string('message_id');
             $table->timestamps();
         });
     }

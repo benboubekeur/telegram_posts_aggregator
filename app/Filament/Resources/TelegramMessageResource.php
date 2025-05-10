@@ -32,7 +32,15 @@ class TelegramMessageResource extends Resource
                     ->columnSpanFull(),
                 Forms\Components\DateTimePicker::make('sent_at')
                     ->required(),
-    
+            Section::make()
+                ->schema(
+                    [
+                        SpatieMediaLibraryFileUpload::make('Images')
+                            ->multiple()
+                            ->previewable()
+                            ->collection('products'),
+                    ]
+                ),
  
             ]);
     }
