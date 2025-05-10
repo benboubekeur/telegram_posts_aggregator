@@ -52,7 +52,7 @@ class BasicEventHandler extends SimpleEventHandler
     public function handleMessage(Incoming&Message $message): void
     {
         info('Inside  the handleMessage method');
-        info('Received message: ' . $message['message']);
+      
         // Code that uses $message...
         // See the following pages for more examples and documentation:
         // - https://github.com/danog/MadelineProto/blob/v8/examples/bot.php
