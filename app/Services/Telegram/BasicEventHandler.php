@@ -3,6 +3,7 @@
 declare(strict_types=1);
 
 namespace App\Services\Telegram;
+
 // Simple example bot.
 // PHP 8.2.4+ is required.
 
@@ -70,7 +71,7 @@ class BasicEventHandler extends SimpleEventHandler
     #[Handler]
     public function h3(Incoming & ChannelMessage & HasMedia $message): void
     {
-        info(' Handle all incoming messages with media attached (groups+channels) ') ;
+        info(' Handle all incoming messages with media attached (groups+channels) ');
 
         //info(json_encode($message));
 
@@ -80,8 +81,9 @@ class BasicEventHandler extends SimpleEventHandler
     /**
      * Save the incoming message with media.
      */
-    private function saveMessage(Incoming & ChannelMessage & HasMedia  $message): void
+    private function saveMessage(Incoming & ChannelMessage & HasMedia $message): void
     {
+        info('-------------------------------------------------');
         // Extract message details
         $messageId = $message->id;
         $text = $message->message;
@@ -99,33 +101,27 @@ class BasicEventHandler extends SimpleEventHandler
                 'telegram_channel_id' => null,
                 'grouped_id' => $groupedId,
                 'message_content' => $text,
-                'sent_at' => (new DateTime())->setTimestamp($message->date)
+                'sent_at' => (new DateTime())->setTimestamp($message->date),
             ]);
-
         }
 
-          if($media  ) {
-               $link =    $this->getDownloadLink($message, route('download_link')) ?? null;
+        if ($media) {
+            $link = $this->getDownloadLink($message, route('download_link')) ?? null;
 
-            info('Link '. $link);
+            info('Link '.$link);
 
-              if ($link && $groupedId) {
-                  $telegramMessageMedia = TelegramMessageMedia::create([
-                      'message_id' => $messageId,
-                      'grouped_id' => $groupedId,
-                  ]);
+            if ($link && $groupedId) {
+                $telegramMessageMedia = TelegramMessageMedia::create([
+                    'message_id' => $messageId,
+                    'grouped_id' => $groupedId,
+                ]);
 
-                  $telegramMessageMedia->addMediaFromUrl($link)
-                      ->toMediaCollection('products');
-              }
+                $telegramMessageMedia->addMediaFromUrl($link)
+                    ->toMediaCollection('products');
+            }
             info('-------------------------------------------------');
-              info('-------------------------------------------------');
-
-
+            info('-------------------------------------------------');
         }
-        
-
-
     }
 }
 
