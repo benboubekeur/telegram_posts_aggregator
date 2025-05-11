@@ -53,7 +53,11 @@ class TelegramMessageResource extends Resource
                 ->collection('products')
                 ->conversion('preview')
                 ->label(''),
-            Tables\Columns\TextColumn::make('telegramChannel.channel_identifier'),
+            Tables\Columns\TextColumn::make('telegramChannel.title')
+                    ->searchable()
+                    ->label('Channel')
+                    ->sortable()
+                    ->toggleable(), 
                 Tables\Columns\TextColumn::make('sent_at')
                     ->dateTime()
                     ->sortable(),

@@ -52,6 +52,8 @@ class TelegramChannelResource extends Resource
                     ->searchable(),
                 Tables\Columns\TextColumn::make('channel_identifier')
                     ->searchable(),
+            Tables\Columns\TextColumn::make('title')
+                ->searchable(),
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()
