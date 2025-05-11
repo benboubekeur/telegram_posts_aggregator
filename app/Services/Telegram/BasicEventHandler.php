@@ -55,9 +55,7 @@ class BasicEventHandler extends SimpleEventHandler
     #[Handler]
     public function handleMessage(Incoming&Message $message): void
     {
-        info('Inside  the handleMessage method');
 
-        info(json_encode($message));
 
         // Code that uses $message...
         // See the following pages for more examples and documentation:
@@ -70,10 +68,7 @@ class BasicEventHandler extends SimpleEventHandler
     #[Handler]
     public function h3(Incoming & ChannelMessage & HasMedia $message): void
     {
-        info(' Handle all incoming messages with media attached (groups+channels) ');
-
-        //info(json_encode($message));
-
+        //"chatId":-1001890755270,"senderId":-1001890755270 islam phone
         $this->saveMessage($message);
     }
 
@@ -82,13 +77,15 @@ class BasicEventHandler extends SimpleEventHandler
      */
     private function saveMessage(Incoming & ChannelMessage & HasMedia $message): void
     {
-        info('-------------------------------------------------');
-        // Extract message details
         $messageId = $message->id;
+        info('-------------------------------------------------');
+
+        info(json_encode( $this->getInfo($messageId) ) );
+        // Extract message details
         $text = $message->message;
         $groupedId = $message->groupedId;
 
-        info("Processing media group with ID: {$groupedId} for msg ID: {$messageId}");
+        info("Processing message grouped with ID: {$groupedId} for msg ID: {$messageId}");
 
         $telegramMessage = null;
 
@@ -103,11 +100,12 @@ class BasicEventHandler extends SimpleEventHandler
             ]);
         }
 
+        info('$message->media : ' .  (bool)$message->media. ' : ');
         if ($message->media) {
             $link = $this->getDownloadLink($message, route('download_link')) ?? null;
 
             if ($groupedId && $link) {
-                info('Creating new media record for message ');
+                info('Creating new TelegramMessageMedia record for message ');
                 $telegramMessageMedia = TelegramMessageMedia::create([
                     'message_id' => $messageId,
                     'grouped_id' => $groupedId,
