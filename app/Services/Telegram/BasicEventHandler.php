@@ -11,6 +11,7 @@ namespace App\Services\Telegram;
 
 // To reduce RAM usage, follow these instructions: https://docs.madelineproto.xyz/docs/DATABASE.html
 
+use App\Models\TelegramChannel;
 use App\Models\TelegramMessage;
 use App\Models\TelegramMessageMedia;
 use danog\MadelineProto\EventHandler\Attributes\Handler;
@@ -55,8 +56,6 @@ class BasicEventHandler extends SimpleEventHandler
     #[Handler]
     public function handleMessage(Incoming&Message $message): void
     {
-
-
         // Code that uses $message...
         // See the following pages for more examples and documentation:
         // - https://github.com/danog/MadelineProto/blob/v8/examples/bot.php
@@ -79,7 +78,6 @@ class BasicEventHandler extends SimpleEventHandler
     {
         $messageId = $message->id;
         info('-------------------------------------------------');
-        // Extract message details
         $text = $message->message;
         $groupedId = $message->groupedId;
 
@@ -87,18 +85,20 @@ class BasicEventHandler extends SimpleEventHandler
 
         $telegramMessage = null;
 
+        $telegramChannel =  $this->findOrCreateNewTelegramChannel($message);
+
         if ($text) {
             $telegramMessage = TelegramMessage::create([
                 'message_id' => $messageId,
                 'peer_type' => 'channel',
-                'telegram_channel_id' => null,
                 'grouped_id' => $groupedId,
                 'message_content' => $text,
                 'sent_at' => (new DateTime())->setTimestamp($message->date),
+                'telegram_channel_id' => $telegramChannel->id,
             ]);
         }
 
-        info('$message->media : ' .  (bool)$message->media. ' : ');
+        info('$message->media : '.(bool) $message->media.' : ');
         if ($message->media) {
             $link = $this->getDownloadLink($message, route('download_link')) ?? null;
 
@@ -112,11 +112,25 @@ class BasicEventHandler extends SimpleEventHandler
                 $telegramMessageMedia->addMediaFromUrl($link)
                     ->toMediaCollection('products');
             } elseif ($telegramMessage) {
-                    info('Attaching media to message with link : '. $link);
-                    $telegramMessage->addMediaFromUrl($link)
-                        ->toMediaCollection('products');
-                }
+                info('Attaching media to message with link : '.$link);
+                $telegramMessage->addMediaFromUrl($link)
+                    ->toMediaCollection('products');
+            }
         }
     }
+
+    private function findOrCreateNewTelegramChannel(HasMedia&ChannelMessage&Incoming $message): TelegramChannel
+    {
+        $channel = $this->getPwrChat($message->chatId);
+
+        return TelegramChannel::firstOrCreate(
+            ['channel_id' => $channel['id']],
+            [
+                'about' => $channel['about'] ?? null,
+                'title' => $channel['title'] ?? null,
+                'channel_identifier' => $channel['username'],
+            ]);
+    }
+
 }
 

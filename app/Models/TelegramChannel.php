@@ -9,4 +9,9 @@ class TelegramChannel extends Model
 {
     /** @use HasFactory<\Database\Factories\TelegramChannelFactory> */
     use HasFactory;
+
+    public function messages()  : \Illuminate\Database\Eloquent\Relations\HasMany
+    {
+        return $this->hasMany(TelegramMessage::class);
+    }
 }

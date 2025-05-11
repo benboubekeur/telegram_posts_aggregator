@@ -61,6 +61,7 @@ class TelegramChannelResource extends Resource
                     ->sortable()
                     ->toggleable(isToggledHiddenByDefault: true),
             ])
+            ->poll('9s')
             ->filters([
                 //
             ])
@@ -77,7 +78,7 @@ class TelegramChannelResource extends Resource
     public static function getRelations(): array
     {
         return [
-            //
+            RelationManagers\MessagesRelationManager::class
         ];
     }
 
