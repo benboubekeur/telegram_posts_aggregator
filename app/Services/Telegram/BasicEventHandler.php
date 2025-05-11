@@ -68,7 +68,8 @@ class BasicEventHandler extends SimpleEventHandler
     public function h3(Incoming & ChannelMessage & HasMedia $message): void
     {
         info(' Handle all incoming messages with media attached (groups+channels) ') ;
-
+        
+        info(json_encode($message));
     }
 }
 
