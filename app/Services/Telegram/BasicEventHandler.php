@@ -12,11 +12,11 @@ namespace App\Services\Telegram;
 
 use danog\MadelineProto\EventHandler\Attributes\Handler;
 use danog\MadelineProto\EventHandler\Message;
+use danog\MadelineProto\EventHandler\Message\ChannelMessage;
 use danog\MadelineProto\EventHandler\Plugin\RestartPlugin;
+use danog\MadelineProto\EventHandler\SimpleFilter\HasMedia;
 use danog\MadelineProto\EventHandler\SimpleFilter\Incoming;
 use danog\MadelineProto\SimpleEventHandler;
-
- 
 
 class BasicEventHandler extends SimpleEventHandler
 {
@@ -54,6 +54,7 @@ class BasicEventHandler extends SimpleEventHandler
         info('Inside  the handleMessage method');
 
         info(json_encode($message));
+
       
         // Code that uses $message...
         // See the following pages for more examples and documentation:
@@ -61,6 +62,13 @@ class BasicEventHandler extends SimpleEventHandler
         // - https://docs.madelineproto.xyz/docs/UPDATES.html
         // - https://docs.madelineproto.xyz/docs/FILTERS.html
         // - https://docs.madelineproto.xyz/
+    }
+
+    #[Handler]
+    public function h3(Incoming & ChannelMessage & HasMedia $message): void
+    {
+        info(' Handle all incoming messages with media attached (groups+channels) ') ;
+
     }
 }
 
