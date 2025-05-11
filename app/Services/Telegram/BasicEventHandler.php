@@ -79,8 +79,6 @@ class BasicEventHandler extends SimpleEventHandler
     {
         $messageId = $message->id;
         info('-------------------------------------------------');
-
-        info(json_encode( $this->getInfo($messageId) ) );
         // Extract message details
         $text = $message->message;
         $groupedId = $message->groupedId;
