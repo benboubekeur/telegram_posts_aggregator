@@ -10,13 +10,16 @@ namespace App\Services\Telegram;
 
 // To reduce RAM usage, follow these instructions: https://docs.madelineproto.xyz/docs/DATABASE.html
 
+use App\Models\TelegramMessage;
 use danog\MadelineProto\EventHandler\Attributes\Handler;
+use danog\MadelineProto\EventHandler\Media\Photo;
 use danog\MadelineProto\EventHandler\Message;
 use danog\MadelineProto\EventHandler\Message\ChannelMessage;
 use danog\MadelineProto\EventHandler\Plugin\RestartPlugin;
 use danog\MadelineProto\EventHandler\SimpleFilter\HasMedia;
 use danog\MadelineProto\EventHandler\SimpleFilter\Incoming;
 use danog\MadelineProto\SimpleEventHandler;
+use DateTime;
 
 class BasicEventHandler extends SimpleEventHandler
 {
@@ -55,7 +58,6 @@ class BasicEventHandler extends SimpleEventHandler
 
         info(json_encode($message));
 
-      
         // Code that uses $message...
         // See the following pages for more examples and documentation:
         // - https://github.com/danog/MadelineProto/blob/v8/examples/bot.php
@@ -68,8 +70,49 @@ class BasicEventHandler extends SimpleEventHandler
     public function h3(Incoming & ChannelMessage & HasMedia $message): void
     {
         info(' Handle all incoming messages with media attached (groups+channels) ') ;
-        
+
         info(json_encode($message));
+
+        $this->saveMessage($message);
+    }
+
+    /**
+     * Save the incoming message with media.
+     */
+    private function saveMessage(Incoming & ChannelMessage & HasMedia  $message): void
+    {
+        // Extract message details
+        $messageId = $message->id;
+        $text = $message->message;
+        $media = $message->media;
+
+        $groupedId = $message->groupedId;
+
+        info("Processing media group with ID: {$groupedId} for msg ID: {$messageId}");
+
+
+       // $link =    $this->getDownloadLink($msg, route('download_link')) ?? null;
+
+
+        if ($text) {
+            TelegramMessage::create([
+                'message_id' => $messageId,
+                'telegram_channel_id' => $message->chatId,
+                'grouped_id' => $groupedId,
+                'message_content' => $text,
+                'sent_at' => new DateTime()->setTimestamp($message->date)
+            ]);
+
+        }
+
+          if($media  ) {
+            info('-------------------------------------------------');
+            info('Media Attached ');
+            info('-------------------------------------------------');
+        }
+        
+
+
     }
 }
 

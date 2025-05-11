@@ -15,12 +15,12 @@ return new class extends Migration
             $table->id();
 
             $table->string('message_id');
-            $table->string('peet_type'); // 'channel', 'chat', or 'user'
+            $table->string('peer_type'); // 'channel', 'chat', or 'user'
             $table->string('peer_id');
             $table->string('from_id')->nullable();
             $table->text('message_content');
             $table->timestamp('sent_at');
-            $table->foreignId('telegram_channel_id')->constrained()->onDelete('cascade');
+            $table->foreignId('telegram_channel_id')->nullable()->constrained()->onDelete('cascade');
             $table->timestamps();
         });
     }
