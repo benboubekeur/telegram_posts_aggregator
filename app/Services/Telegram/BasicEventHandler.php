@@ -106,26 +106,20 @@ class BasicEventHandler extends SimpleEventHandler
         if ($message->media) {
             $link = $this->getDownloadLink($message, route('download_link')) ?? null;
 
-            if ($groupedId) {
-                if ($link) {
-                    info('Creating new media record for message ');
-                    $telegramMessageMedia = TelegramMessageMedia::create([
-                        'message_id' => $messageId,
-                        'grouped_id' => $groupedId,
-                    ]);
+            if ($groupedId && $link) {
+                info('Creating new media record for message ');
+                $telegramMessageMedia = TelegramMessageMedia::create([
+                    'message_id' => $messageId,
+                    'grouped_id' => $groupedId,
+                ]);
 
-                    $telegramMessageMedia->addMediaFromUrl($link)
-                        ->toMediaCollection('products');
-                }
-            } else {
-                if ($link && $telegramMessage) {
+                $telegramMessageMedia->addMediaFromUrl($link)
+                    ->toMediaCollection('products');
+            } elseif ($telegramMessage) {
                     info('Attaching media to message: ');
                     $telegramMessage->addMediaFromUrl($link)
                         ->toMediaCollection('products');
                 }
-            }
-
-
         }
     }
 }
