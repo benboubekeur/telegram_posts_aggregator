@@ -92,7 +92,7 @@ class FetchTelegramMessages extends Command
                                 'telegram_channel_id' => $channel->id,
                                 'grouped_id' => $groupedId,
                                 'message_content' => $msg['message'] ?? null,
-                                'sent_at' => new DateTime()->setTimestamp($msg['date']),
+                                'sent_at' => (new DateTime())->setTimestamp($msg['date']),
                             ]);
 
                             if ($link && is_null($groupedId)) {
