@@ -11,6 +11,7 @@ namespace App\Services\Telegram;
 // To reduce RAM usage, follow these instructions: https://docs.madelineproto.xyz/docs/DATABASE.html
 
 use App\Models\TelegramMessage;
+use App\Models\TelegramMessageMedia;
 use danog\MadelineProto\EventHandler\Attributes\Handler;
 use danog\MadelineProto\EventHandler\Media\Photo;
 use danog\MadelineProto\EventHandler\Message;
@@ -90,28 +91,37 @@ class BasicEventHandler extends SimpleEventHandler
 
         info("Processing media group with ID: {$groupedId} for msg ID: {$messageId}");
 
-        info("Message: {$message}");
-
-       // $link =    $this->getDownloadLink($msg, route('download_link')) ?? null;
-
-
         if ($text) {
             info('Saving message content');
             TelegramMessage::create([
                 'message_id' => $messageId,
                 'peer_type' => 'channel',
-                'telegram_channel_id' => $message->chatId,
+                'telegram_channel_id' => null,
                 'grouped_id' => $groupedId,
                 'message_content' => $text,
-                'sent_at' => new DateTime()->setTimestamp($message->date)
+                'sent_at' => (new DateTime())->setTimestamp($message->date)
             ]);
 
         }
 
           if($media  ) {
+               $link =    $this->getDownloadLink($message, route('download_link')) ?? null;
+
+            info('Link '. $link);
+
+              if ($link && $groupedId) {
+                  $telegramMessageMedia = TelegramMessageMedia::create([
+                      'message_id' => $messageId,
+                      'grouped_id' => $groupedId,
+                  ]);
+
+                  $telegramMessageMedia->addMediaFromUrl($link)
+                      ->toMediaCollection('products');
+              }
             info('-------------------------------------------------');
-            info('Media Attached ');
-            info('-------------------------------------------------');
+              info('-------------------------------------------------');
+
+
         }
         
 
