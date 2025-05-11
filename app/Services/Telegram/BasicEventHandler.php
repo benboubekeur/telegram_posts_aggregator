@@ -114,7 +114,7 @@ class BasicEventHandler extends SimpleEventHandler
                 $telegramMessageMedia->addMediaFromUrl($link)
                     ->toMediaCollection('products');
             } elseif ($telegramMessage) {
-                    info('Attaching media to message: ');
+                    info('Attaching media to message with link : '. $link);
                     $telegramMessage->addMediaFromUrl($link)
                         ->toMediaCollection('products');
                 }
