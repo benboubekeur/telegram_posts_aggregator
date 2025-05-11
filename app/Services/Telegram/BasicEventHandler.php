@@ -71,7 +71,7 @@ class BasicEventHandler extends SimpleEventHandler
     {
         info(' Handle all incoming messages with media attached (groups+channels) ') ;
 
-        info(json_encode($message));
+        //info(json_encode($message));
 
         $this->saveMessage($message);
     }
@@ -90,13 +90,16 @@ class BasicEventHandler extends SimpleEventHandler
 
         info("Processing media group with ID: {$groupedId} for msg ID: {$messageId}");
 
+        info("Message: {$message}");
 
        // $link =    $this->getDownloadLink($msg, route('download_link')) ?? null;
 
 
         if ($text) {
+            info('Saving message content');
             TelegramMessage::create([
                 'message_id' => $messageId,
+                'peer_type' => 'channel',
                 'telegram_channel_id' => $message->chatId,
                 'grouped_id' => $groupedId,
                 'message_content' => $text,

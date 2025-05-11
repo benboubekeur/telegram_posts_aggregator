@@ -16,7 +16,7 @@ return new class extends Migration
 
             $table->string('message_id');
             $table->string('peer_type'); // 'channel', 'chat', or 'user'
-            $table->string('peer_id');
+            $table->string('peer_id')->nullable();
             $table->string('from_id')->nullable();
             $table->text('message_content');
             $table->timestamp('sent_at');
