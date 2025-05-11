@@ -14,7 +14,6 @@ namespace App\Services\Telegram;
 use App\Models\TelegramMessage;
 use App\Models\TelegramMessageMedia;
 use danog\MadelineProto\EventHandler\Attributes\Handler;
-use danog\MadelineProto\EventHandler\Media\Photo;
 use danog\MadelineProto\EventHandler\Message;
 use danog\MadelineProto\EventHandler\Message\ChannelMessage;
 use danog\MadelineProto\EventHandler\Plugin\RestartPlugin;
@@ -87,15 +86,14 @@ class BasicEventHandler extends SimpleEventHandler
         // Extract message details
         $messageId = $message->id;
         $text = $message->message;
-        $media = $message->media;
-
         $groupedId = $message->groupedId;
 
         info("Processing media group with ID: {$groupedId} for msg ID: {$messageId}");
 
+        $telegramMessage = null;
+
         if ($text) {
-            info('Saving message content');
-            TelegramMessage::create([
+            $telegramMessage = TelegramMessage::create([
                 'message_id' => $messageId,
                 'peer_type' => 'channel',
                 'telegram_channel_id' => null,
@@ -105,22 +103,29 @@ class BasicEventHandler extends SimpleEventHandler
             ]);
         }
 
-        if ($media) {
+        if ($message->media) {
             $link = $this->getDownloadLink($message, route('download_link')) ?? null;
 
-            info('Link '.$link);
+            if ($groupedId) {
+                if ($link) {
+                    info('Creating new media record for message ');
+                    $telegramMessageMedia = TelegramMessageMedia::create([
+                        'message_id' => $messageId,
+                        'grouped_id' => $groupedId,
+                    ]);
 
-            if ($link && $groupedId) {
-                $telegramMessageMedia = TelegramMessageMedia::create([
-                    'message_id' => $messageId,
-                    'grouped_id' => $groupedId,
-                ]);
-
-                $telegramMessageMedia->addMediaFromUrl($link)
-                    ->toMediaCollection('products');
+                    $telegramMessageMedia->addMediaFromUrl($link)
+                        ->toMediaCollection('products');
+                }
+            } else {
+                if ($link && $telegramMessage) {
+                    info('Attaching media to message: ');
+                    $telegramMessage->addMediaFromUrl($link)
+                        ->toMediaCollection('products');
+                }
             }
-            info('-------------------------------------------------');
-            info('-------------------------------------------------');
+
+
         }
     }
 }
